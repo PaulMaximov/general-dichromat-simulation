@@ -1,5 +1,5 @@
 # Python utilities to simulate color perception of generalized dichromats
-## A generalized dichromat is defined by the confusion line in the LMS color space. The confusion line direction is defined by a hue angle in degrees. 0° corresponds to a real protanope, 120° -- to a real deuteranope, 240° - to a real tritanope, but you can use arbitraty angles to simulate unreal dicromats.
+## A generalized dichromat is defined by the confusion line in the LMS color space. The confusion line direction is defined by a hue angle in degrees. A hue angle of 0° corresponds to a real protanope, 120° -- to a real deuteranope, 240° - to a real tritanope, but you can use any arbitrary angles to simulate unreal dicromats.
 ### The example below illustrates the use of functions defined in the file dichromat_simulation_twoplanes.py. One of the two fixed planes are used as a dichromat color surface. The plane is selected to maximize the angle between the confusion line and the plane.
 
 #### 
